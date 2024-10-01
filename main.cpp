@@ -1,5 +1,6 @@
-#include
+#include stdio.h
 
-int main{
-	print "hello world"
+int main(){
+	printf ("hello world");
+	printf ("cat");
 }
